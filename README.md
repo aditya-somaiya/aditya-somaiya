@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Somaiya</h1>
 <h3 align="center">A software engineer passionate about building and advancing tech innovations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbasrur&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbasrur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-somaiya&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-somaiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitbasrur" alt="ankitbasrur" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-somaiya" alt="aditya-somaiya" /></a> </p>
 
 - 🔭 I’m currently working on building projects and contributing to open source.
 
