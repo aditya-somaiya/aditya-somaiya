@@ -12,6 +12,7 @@
 - Ask me about Java, AWS, TypeScript, and React
 
 - 👨‍💻 All of my info is available at [Link](https://www.linkedin.com/in/aditya-somaiya/)
+- 👨‍💻 View my portfolio website at [Link](https://aditya-somaiya.github.io/)
 
 - 📫 How to reach me **adisomaiya.sa@gmail.com**
 
